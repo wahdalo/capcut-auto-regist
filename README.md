@@ -11,7 +11,7 @@ This project automates the creation of Capcut accounts using random email addres
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/wahdalo/capcut-auto-regist.git
     cd capcut
     ```
 
